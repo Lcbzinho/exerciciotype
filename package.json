@@ -1,0 +1,13 @@
+{
+  "name": "typescript-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercício TypeScript com funções de multiplicação e saudação.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
